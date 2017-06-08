@@ -1,6 +1,6 @@
 # Sign-Installation-Responsive-Concept
 
-A mobile first design targeted at reality professionals.  Order on-site signage, maintain history, get progress notifications, on-site geolocation, bulk orders.  
+A mobile first design targeted at realty professionals.  Order on-site signage, maintain history, get progress notifications, on-site geolocation, bulk orders.  
 
 For office managers; track and approve work orders, configure route priority (with google maps directions api), optional integrated user survey integrated within sales funnel.
 
